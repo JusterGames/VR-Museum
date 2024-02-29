@@ -34,20 +34,23 @@ MonoBehaviour:
         - globalObjectIdString: GlobalObjectId_V1-2-4e9fef26e6adb88479ad1b9834a32d94-63266718-0
         - globalObjectIdString: GlobalObjectId_V1-2-4e9fef26e6adb88479ad1b9834a32d94-2036477620-0
         - globalObjectIdString: GlobalObjectId_V1-2-4e9fef26e6adb88479ad1b9834a32d94-2012280666-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4e9fef26e6adb88479ad1b9834a32d94-91314316-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4e9fef26e6adb88479ad1b9834a32d94-1030196273-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4e9fef26e6adb88479ad1b9834a32d94-1384492957-0
         values:
         - colorIndex: 4
           iconNameOrGuid: AvatarMask On Icon
-        - colorIndex: 3
+        - colorIndex: 4
           iconNameOrGuid: Folder Icon
-        - colorIndex: 2
+        - colorIndex: 4
           iconNameOrGuid: Folder Icon
-        - colorIndex: 8
+        - colorIndex: 4
           iconNameOrGuid: Folder Icon
-        - colorIndex: 6
+        - colorIndex: 4
           iconNameOrGuid: Folder Icon
-        - colorIndex: 7
+        - colorIndex: 4
           iconNameOrGuid: Folder Icon
-        - colorIndex: 9
+        - colorIndex: 4
           iconNameOrGuid: ReflectionProbe Icon
         - colorIndex: 4
           iconNameOrGuid: Folder Icon
@@ -65,5 +68,11 @@ MonoBehaviour:
           iconNameOrGuid: 
         - colorIndex: 5
           iconNameOrGuid: 
-        - colorIndex: 3
+        - colorIndex: 4
+          iconNameOrGuid: Folder Icon
+        - colorIndex: 4
+          iconNameOrGuid: 
+        - colorIndex: 4
+          iconNameOrGuid: Folder Icon
+        - colorIndex: 4
           iconNameOrGuid: Folder Icon
