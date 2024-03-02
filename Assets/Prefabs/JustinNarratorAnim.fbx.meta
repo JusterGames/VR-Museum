@@ -65,8 +65,8 @@ ModelImporter:
       name: Idle
       takeName: iPi Default Take
       internalID: -2590317288640926464
-      firstFrame: 2
-      lastFrame: 3
+      firstFrame: 917
+      lastFrame: 1015
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
